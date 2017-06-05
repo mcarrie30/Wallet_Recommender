@@ -3,7 +3,7 @@
 Project will be up shortly...
 In the meantime check out my gif updates on my Wallet Recommender Dashboard
 
-A Word Cloud manipulator
+A Word Cloud Manipulator
 ![demo](Dashboard1.gif)
 
 
